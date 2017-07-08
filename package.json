@@ -1,0 +1,21 @@
+{
+  "name": "immutability-in-angular",
+  "version": "1.0.0",
+  "description": "blog samples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paweł Chudzik",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.4"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.6.5",
+    "jasmine": "^2.6.0",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0"
+  }
+}
